@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+---
+title: Portfolio
+---
+
+## Portfolio
 
 You can use the [editor on GitHub](https://github.com/imk2o/Portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
