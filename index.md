@@ -12,7 +12,6 @@ title: Portfolio
 - 所属: フリーランス
 - 現在の主な活動:
     - iOSアプリケーション開発 (業務委託、個人制作)
-    - プログラミング講師 (小・中・高校生)
 - 職歴: 以下を参照
 - 学歴:
     - 信州大学工学部 情報工学科 卒業 (編入学)
@@ -26,7 +25,7 @@ title: Portfolio
     - iOSアプリの全体設計、アーキテクチャ、ライブラリ選定
     - API設計
     - アプリ実装
-    - Swift / Rx / Clean Architecture based
+    - Swift / Rx / Clean Architecture / Firebase / Bitrise
 - プログラミング講師サポート (2017.4〜)
     - 高校生向けプログラミングコースの講師支援業務
     - 受講生それぞれの制作テーマに沿った技術アドバイス、コーチング
@@ -65,7 +64,7 @@ title: Portfolio
 - Live Photosに含まれる短い動画をつなげ、1つの動画を生成
 - 編集機能
 - AVFoundationを利用した動画・音声合成
-- Swift / Rx / Photos Framework / AVFoundation
+- Swift / Combine / Photos Framework / AVFoundation
 
 ### [ふぉとくり](https://itunes.apple.com/jp/app/id954866163?mt=8): 写真整理アプリ(iOS)
 
@@ -99,7 +98,6 @@ title: Portfolio
 
 - 開発言語
     - Swift
-
     - Objective-C
     - JavaScript
     - Python
@@ -112,7 +110,8 @@ title: Portfolio
     - macOS
     - Linux
 - ライブラリとフレームワーク
-    - Rx
+    - FRP: Combine / RxSwift / ReactiveSwift
+    - Firebase
     - Unity
     - OpenGL/GLSL
     - Ruby on Rails
@@ -121,11 +120,10 @@ title: Portfolio
     - UI/UX実装
     - 画像処理
     - コンピュータグラフィックス(2D/3D)
-    - ソフトウェア設計(UML, MVxアーキテクチャ)
+    - ソフトウェア設計(UML, アーキテクチャ: MVx, Clean Architecture, VIPER)
     - ナレッジ制作とシェア
 - 興味
     - 画像認識と深層学習
     - 画像＆動画の編集と視覚効果の研究
     - プログラミング教育とコーチング
     - スキルシェア、副業、リモートワーク
-    - 家庭と育児のマネジメント
