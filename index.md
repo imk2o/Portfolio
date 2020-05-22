@@ -5,7 +5,7 @@ title: Portfolio
 ## はじめに
 
 私の活動に興味をお持ちいただき、ありがとうございます！
-最近はiOSアプリ開発、プログラミング講師を主な活動分野としておりますが、リーダー業務、CG、サーバサイド開発、上流工程、Linuxなど幅広く経験しております。
+最近はiOSアプリ開発を主な活動分野としておりますが、リーダー業務、CG、サーバサイド開発、上流工程、プログラミング講師など幅広く経験しております。
 お仕事のご依頼、ご相談などございましたら[こちらまで](mailto:imk2o.biz@icloud.com)お気軽にお申し付けください！
 
 - 名前: 小林 雄一 (コバヤシ ユウイチ)
@@ -21,21 +21,26 @@ title: Portfolio
 
 ### 近年の実績
 
-- CtoCサービスのアプリ開発 (2016.10〜)
+- 特定業種向けiPadアプリのリニューアル (2020.1〜2020.6)
+    - UIKit/SwiftUI双方を利用したAdaptive Layoutへの対応
+    - Combineを用いたMVVMアーキテクチャに基づく実装
+    - gRPCによるバックエンド連携
+    - Swift / SwiftUI / Combine / MVVM / gRPC / Fastlane / CircleCI
+- CtoCサービスのアプリ開発 (2016.10〜2019.11)
     - iOSアプリの全体設計、アーキテクチャ、ライブラリ選定
     - API設計
     - アプリ実装
     - Swift / Rx / Clean Architecture / Firebase / Bitrise
-- プログラミング講師サポート (2017.4〜)
-    - 高校生向けプログラミングコースの講師支援業務
-    - 受講生それぞれの制作テーマに沿った技術アドバイス、コーチング
-    - JavaScript / node.js / Ruby(on Rails) / Unity / iOS / Android, etc.
-- プログラミング教室のサポート (2018.2〜)
-    - 小中学生向けプログラミング教室の講師
-    - Scratch / code.org / Minecraft / Unity, etc.
 
 ### 過去の主な職歴・実績
 
+- プログラミング教室のサポート (2018.2〜2019.3)
+    - 小中学生向けプログラミング教室の講師
+    - Scratch / code.org / Minecraft / Unity, etc.
+- プログラミング講師サポート (2017.4〜2018.3)
+    - 高校生向けプログラミングコースの講師支援業務
+    - 受講生それぞれの制作テーマに沿った技術アドバイス、コーチング
+    - JavaScript / node.js / Ruby(on Rails) / Unity / iOS / Android, etc.
 - 音声コンテンツ配信サービスの視聴アプリ開発	(2016.3〜2016.7)
     - iOS/Androidアプリ開発チームリーダー
     - アプリ共通設計、iOSアプリ詳細設計、API設計
@@ -64,7 +69,7 @@ title: Portfolio
 - Live Photosに含まれる短い動画をつなげ、1つの動画を生成
 - 編集機能
 - AVFoundationを利用した動画・音声合成
-- Swift / Combine / Photos Framework / AVFoundation
+- Swift / Combine / Photos Framework / AVFoundation / CoreImage
 
 ### [ふぉとくり](https://itunes.apple.com/jp/app/id954866163?mt=8): 写真整理アプリ(iOS)
 
@@ -110,12 +115,15 @@ title: Portfolio
     - macOS
     - Linux
 - ライブラリとフレームワーク
+    - SwiftUI
+    - Network: Alamofire / APIKit / gRPC-Swift
     - FRP: Combine / RxSwift / ReactiveSwift
-    - Firebase
+    - Media: AVFoundation, Photos, CoreImage
+    - Package Manager: CocoaPods, Carthage, SwiftPM
+    - Firebase: Analytics / Crashlytics / Remote Config / App Distribution
     - Unity
     - OpenGL/GLSL
     - Ruby on Rails
-    - Qt
 - 得意分野
     - UI/UX実装
     - 画像処理
@@ -125,5 +133,6 @@ title: Portfolio
 - 興味
     - 画像認識と深層学習
     - 画像＆動画の編集と視覚効果の研究
+    - データビジュアライゼーション
     - プログラミング教育とコーチング
     - スキルシェア、副業、リモートワーク
