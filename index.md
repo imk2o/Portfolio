@@ -4,135 +4,103 @@ title: Portfolio
 
 ## はじめに
 
-私の活動に興味をお持ちいただき、ありがとうございます！
-最近はiOSアプリ開発を主な活動分野としておりますが、リーダー業務、CG、サーバサイド開発、上流工程、プログラミング講師など幅広く経験しております。
-お仕事のご依頼、ご相談などございましたら[こちらまで](mailto:imk2o.biz@icloud.com)お気軽にお申し付けください！
+私は信州大学工学部 情報工学科を卒業後、ソフトウェア開発会社に延べ10年以上従事し、フリーランスエンジニアとしての活動後、現在はメドピア株式会社でモバイルアプリ開発マネージャを務めております。
+システム開発においては技術だけではなく、その事業や組織など様々な観点を持つことが重要と考えており、自身の行動規範としています。
+また最近は組織開発や人財育成の役目をいただくことも多くなり、自身の経験を生かしたマネジメントやメンタリングに努めています。
 
-- 名前: 小林 雄一 (コバヤシ ユウイチ)
-- 所属: フリーランス
-- 現在の主な活動:
-    - iOSアプリケーション開発 (業務委託、個人制作)
-- 職歴: 以下を参照
-- 学歴:
-    - 信州大学工学部 情報工学科 卒業 (編入学)
-    - 長野工業高等専門学校 電子情報工学科 卒業
+本職があるため現在は積極的なお仕事の募集は行なっておりませんが、何かご依頼、ご相談などございましたら[こちらまで](mailto:imk2o.biz@icloud.com)お気軽にお申し付けください！
 
-## 職歴および職務経歴
+## 主な経験とスキル
 
-### 近年の実績
+これまで主に「ソフトウェア開発」「プロジェクト管理」「人財採用・育成」に関する業務を経験し、そのスキルを有しております。
 
-- 特定業種向けiPadアプリのリニューアル (2020.1〜2020.6)
-    - UIKit/SwiftUI双方を利用したAdaptive Layoutへの対応
-    - Combineを用いたMVVMアーキテクチャに基づく実装
-    - gRPCによるバックエンド連携
-    - Swift / SwiftUI / Combine / MVVM / gRPC / Fastlane / CircleCI
-- CtoCサービスのアプリ開発 (2016.10〜2019.11)
-    - iOSアプリの全体設計、アーキテクチャ、ライブラリ選定
-    - API設計
-    - アプリ実装
-    - Swift / Rx / Clean Architecture / Firebase / Bitrise
+### ソフトウェア開発業務
 
-### 過去の主な職歴・実績
+直近ではモバイルアプリの開発・運用に携わっておりましたが、サーバサイド開発や業務アプリケーションの開発などの経験もあります。
 
-- プログラミング教室のサポート (2018.2〜2019.3)
-    - 小中学生向けプログラミング教室の講師
-    - Scratch / code.org / Minecraft / Unity, etc.
-- プログラミング講師サポート (2017.4〜2018.3)
-    - 高校生向けプログラミングコースの講師支援業務
-    - 受講生それぞれの制作テーマに沿った技術アドバイス、コーチング
-    - JavaScript / node.js / Ruby(on Rails) / Unity / iOS / Android, etc.
-- 音声コンテンツ配信サービスの視聴アプリ開発	(2016.3〜2016.7)
-    - iOS/Androidアプリ開発チームリーダー
-    - アプリ共通設計、iOSアプリ詳細設計、API設計
-    - iOSアプリのベースおよび、アプリ内課金の実装
-    - Swift / MVP
-- 小説コンテンツ配信サービスのシステム開発 (2015.3〜2016.7)
-    - iOS/Androidアプリ開発チームリーダー
-    - アプリ共通設計、iOSアプリ詳細設計、API設計
-    - iOSアプリ実装
-    - Objective-C / MVP
-- ポイント＆ギフトカードサービスのプロトタイプ開発 (2014.1〜2014.12)
-    - iOSアプリ開発チームリーダー
-    - アプリ共通・詳細設計
-    - iOSアプリ実装
-    - Objective-C / MVC
-- LSI設計データ表示・検証ツールの開発 (2005.7〜2012.12)
-    - 開発チームリーダー
-    - 基本・詳細設計
-    - 高速化アルゴリズム、最適化
-    - C++ / Python / Qt / Linux
+* 新規案件の立ち上げ
+  - 既存サービスのネイティブアプリ化
+  - 新規事業のプロダクト開発
+* 開発運用
+  - 300万DL規模のアプリ開発運用
+  - サービスの成長と伴走するアプリ開発運用
+  - 各種受託案件の開発
+* リニューアル
+  - 他社からの事業承継
+  - 既存アプリの負債解消・モダン化
+  - 既存システムの将来性を見据えたリニューアル
+* その他
+  - サービス提供終了に向けたフロー整理と開発
+  - プロジェクトの振り返りとナレッジの形成
+
+### プロジェクト管理業務
+
+ソフトウェア開発業務に携わるとともに、プロジェクト管理業務を担うこともありました。
+
+* 共通会員システム導入プロジェクトのPM支援
+  - 開発メンバー間の技術仕様連携、PMとの仲介
+  - 要件定義とユースケース
+* プロジェクト管理改善のための運用見直し
+  - FigmaやNotion導入
+  - 各種ツールを活用した業務フローの改善提案
+* 組織横断的なシステム要件対応の管理
+  - プラットフォーム(iOS, Android)対応要件
+  - プライバシーポリシーへの準拠
+* 新プロジェクト立ち上げの支援
+  - システム構成案の検討・提案
+  - チームの組成と開発タスクの管理
+
+### 人財採用・育成推進
+
+チームリーダーやマネージャの任命、個人での活動として児童や学生のプログラミング教育にも携わりました。
+
+* チームメンバーのOKRと人事評価
+* 1on1等を通じたメンタリング
+* 社内勉強会の推進
+* エンジニア採用選考と面接
+* 技術カンファレンス登壇とスポンサー活動
+* プログラミング講師
+  - 小学生向けプログラミング教室の講師
+  - 高校生向けプログラミング技術校の講師・コーチング
+* 学生向けアプリビジネスコンテストの技術メンター
 
 ## 個人活動
 
-### [ふぉとむぐ](https://itunes.apple.com/jp/app/id1251727875?mt=8): Live Photos→動画変換アプリ(iOS)
+個人でいくつかのiOSアプリを開発しています。
 
-- Live Photosに含まれる短い動画をつなげ、1つの動画を生成
-- 編集機能
-- AVFoundationを利用した動画・音声合成
-- Swift / Combine / Photos Framework / AVFoundation / CoreImage
+### Tokyo Station Around
 
-### [ふぉとくり](https://itunes.apple.com/jp/app/id954866163?mt=8): 写真整理アプリ(iOS)
+東京駅とその周辺にあるお店情報を検索・閲覧できるアプリです。
 
-- iPhone/iPadの写真ライブラリにある写真をアルバムに整理、削除
-- ジェスチャを用いた簡単整理機能
-- Swift / Photos Framework
+* [https://apps.apple.com/ja/app/id6445878310](https://apps.apple.com/ja/app/id6445878310)
 
-### [ふぉとゆら](https://itunes.apple.com/jp/app/id936205747?mt=8): 写真スライドショーアプリ(iOS)
+### Reminban
 
-- iPhone/iPadのフォトアルバムに様々な視覚効果を設定してスライドショーにする
-- Swift / Photos Framework / SpriteKit / GLSL
+より使いやすいリマインダーを目指して開発したアプリです。
+iOS標準リマインダーとデータ同期することで、プライバシーに配慮しています。
 
-### その他
+* [https://apps.apple.com/jp/app/id1575996877](https://apps.apple.com/jp/app/id1575996877)
 
-- [Courier(Beta)](https://github.com/imk2o/Courier)
-    - iOS向け、画面間のデータ受け渡しの簡素化フレームワーク
-    - Swift
-- [UICatalog](https://github.com/imk2o/UICatalog)
-    - iOSにおけるUI実装パターン集
-    - Qiita記事と連動して更新
-    - Swift
-- [MediaCatalog](https://github.com/imk2o/MediaCatalog)
-    - iOSにおける写真・カメラデータの参照パターン集
-    - Qiita記事と連動して更新
-    - Swift
-- SNS
-    - [Twitter](https://twitter.com/imk2o)
-    - [Qiita](https://qiita.com/imk2o)
+### ふぉとむぐ
 
-## スキルと興味・関心のある分野
+iPhoneのカメラで撮影したLive Photosを1本の動画にするアプリをApp Storeで公開しています。
+Combine FrameworkやAVFoundationのあまり知られていない機能の利用して実装しています。
 
-- 開発言語
-    - Swift
-    - Objective-C
-    - JavaScript
-    - Python
-    - C++
-    - Ruby
-    - PHP
-    - MySQL
-- プラットフォーム
-    - iOS
-    - macOS
-    - Linux
-- ライブラリとフレームワーク
-    - SwiftUI
-    - Network: Alamofire / APIKit / gRPC-Swift
-    - FRP: Combine / RxSwift / ReactiveSwift
-    - Media: AVFoundation, Photos, CoreImage
-    - Package Manager: CocoaPods, Carthage, SwiftPM
-    - Firebase: Analytics / Crashlytics / Remote Config / App Distribution
-    - Unity
-    - OpenGL/GLSL
-    - Ruby on Rails
-- 得意分野
-    - UI/UX実装
-    - 画像処理
-    - コンピュータグラフィックス(2D/3D)
-    - ソフトウェア設計(UML, アーキテクチャ: MVx, Clean Architecture, VIPER)
-    - ナレッジ制作とシェア
-- 興味
-    - 画像認識と深層学習
-    - 画像＆動画の編集と視覚効果の研究
-    - データビジュアライゼーション
-    - プログラミング教育とコーチング
-    - スキルシェア、副業、リモートワーク
+* [https://apps.apple.com/jp/app/id1251727875](https://apps.apple.com/jp/app/id1251727875)
+
+### ふぉとくり
+
+iPhoneの写真ライブラリを整理するアプリです。
+写真のアルバム移動と削除を直感的に行えるのが特長です。
+
+* [https://apps.apple.com/jp/app/id954866163](https://apps.apple.com/jp/app/id954866163)
+
+### その他の活動や成果
+
+* Qiita: [https://qiita.com/imk2o](https://qiita.com/imk2o)
+* GitHub: [https://github.com/imk2o](https://github.com/imk2o)
+  - macOS/iOS向けジェネレイティブ・アート生成アプリ(GenerativeArtWorkbench)
+    - 関連技術: Stable Diffusion, Vision, CoreImage
+  - iOS向けルーティングライブラリ(Courier, MK2Router)
+  - Qiitaの記事のサンプルコード
+* 発表スライド: [https://speakerdeck.com/imk2o](https://speakerdeck.com/imk2o)
